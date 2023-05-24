@@ -32,7 +32,7 @@ This folder containes all the files concerned with business logic
 ### Models
 This folder containes all the files related to the database
 
-##App Flow
+## App Flow
 
 First you need to signup by using the endpoint /users/signup and providing the email,username and password.
 then you will recive an email for verification.
